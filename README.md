@@ -1,17 +1,17 @@
 # TRADE
 The repository contains the appendices related to the TRADE paper.
 
-Appendix A
+### Appendix A
 
 Two representative snapshots from a running instance of the TRADE implementationare shown herein. Figure 4 captures the TRADE dashboard and Figure 5 captures acollaborative STIX report shown on TRADE’s user interface.
 
-Figure 4
+#### Figure 4
 ![Dashboard](images/dashboard.jpeg)
 
-Figure 5
+#### Figure 5
 ![STIX Report](images/stix.jpeg)
 
-Appendix B
+### Appendix B
 
 A table with a summary of related works is presented below. In the table, CS stands forcyber threat intelligence solutions, and AC stands for access control solutions.
 
