@@ -19,10 +19,10 @@ A table with a summary of related works is presented below. In the table, CS sta
 |---------|-----------|-----|-----------------------|---------|------------|--------------|-----------|------------|
 |  [27]   | Common VulnerabilityScoring System (CVSS) | CS | Centralized | – | X | – | – | – |
 |  [10]   | Common Weakness Enumeration (CWE) | CS | Centralized | – | X | – | – | – |
-|  [42]   | Common Vulnerabilities and Exposures | CS | Centralized | – | X | – | – | – |
+|  [43]   | Common Vulnerabilities and Exposures | CS | Centralized | – | X | – | – | – |
 |  [28]   | BT security threat monitoring | CS | Centralized | X | X | – | – | X |
 |  [14]   | Coco-Cloud CTI management system | CS | Centralized | X | X | – | – | X |
-|  [37]   | Hybbrid CIDS based framework | CS | Centralized | X | – | – | – | X |
+|  [38]   | Hybbrid CIDS based framework | CS | Centralized | X | – | – | – | X |
 |  [16]   | Privacy preserving CTI sharing framework | CS | Centralized | X | – | – | – | – |
 |  [6]    | Cloud based CTI sharing framework | CS | Centralized | X | – | – | X | – |
 |  [33]   | Proactive Risk Management through Improved Cyber Situational Awareness | CS | Decentralized | X | X | – | – | – |
