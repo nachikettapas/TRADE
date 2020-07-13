@@ -5,9 +5,9 @@ Appendix A
 
 Two representative snapshots from a running instance of the TRADE implementationare shown herein. Figure 4 captures the TRADE dashboard and Figure 5 captures acollaborative STIX report shown on TRADE’s user interface.
 
-![Dashboard](https://nachikettapas.github.com/images/dashboard.jpeg)
+![Dashboard](images/dashboard.jpeg)
 
-![STIX Report](https://nachikettapas.github.com/images/stix.jpeg)
+![STIX Report](images/stix.jpeg)
 
 Appendix B
 
